@@ -1,6 +1,17 @@
 # swiftmine
-Minesweeper with Swift 5 and QT.
+Cross platform Minesweeper with Swift 5 and QT.
 
+## Swift
+
+- [x] Windows
+- [x] Mac OSX
+- [x] Linux
+
+## Qt
+
+- [x] Windows
+- [x] Mac OSX
+- [x] Linux
 
 ## Building
 
