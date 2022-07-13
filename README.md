@@ -1,4 +1,4 @@
-# swiftmine
+# Minesweeper
 Cross platform Minesweeper with Swift 5 and QT.
 
 ## Swift
