@@ -3,13 +3,13 @@ Cross platform Minesweeper with Swift 5 and QT.
 
 ## Swift
 
-- [x] Windows
+- [...] Windows.  Requires WSL.
 - [x] Mac OSX
 - [x] Linux
 
 ## Qt
 
-- [x] Windows
+- [...] Windows.  Requires WSL.
 - [x] Mac OSX
 - [x] Linux
 
